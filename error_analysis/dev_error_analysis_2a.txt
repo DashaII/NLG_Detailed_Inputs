@@ -58,8 +58,8 @@ The_Ascent | inspiredBy | The_Ordeal
 The_Ordeal| author | Vasil_Bykau
 Vasil_Bykau  | genre | War_novel
 Vasil_Bykau | birthPlace | Bycki,_Byelorussian_SSR,_Soviet_Union
-Vasil_Bykau | award | Vasil_BykauOrder_of_Francysk_Skaryna
-Vasil Bykau was born in Bycki, Byelorussian SSR, Soviet Union and was awarded the Vasil BykauOrder of Francysk Skaryna. His genre is war novel and his film was inspired by The Ordeal. Byko is the director of The Ascent.
+Vasil_Bykau | award | Order_of_Francysk_Skaryna
+Vasil Bykau was born in Bycki, Byelorussian SSR, Soviet Union and was awarded the Order of Francysk Skaryna. His genre is war novel and his film was inspired by The Ordeal. Byko is the director of The Ascent.
 
 Odyssey_X | launchDate | 1969-07-16
 Evan_Sterling | mission | Odyssey_X
@@ -74,10 +74,10 @@ Khan_Tengri | height | 6995 (meters)
 Khan_Tengri | isPartOf | Tian_Shan
 Khan_Tengri | location | Kazakhstan
 Khan_Tengri | firstAscentYear | 1931
-Mount_Everest | firstAscender | Mikhail_Pogrebetsky
+Khan_Tengri | firstAscender | Mikhail_Pogrebetsky
 Mikhail_Pogrebetsky | nationality | Ukraine
 Khan_Tengri | meaning | "King Heaven"
-Khan Tengri is 6995 metres in height, was first ascented in 1931 and is part of Tian Shan, Kazakhstan. The meaning of Khan Tengri is King Heaven and he is the descender of Mount Everest. Mikhail Pogrebetsky is an Ukraine national.
+Khan Tengri is 6995 metres in height, was first ascented in 1931 and is part of Tian Shan, Kazakhstan. The meaning of Khan Tengri is King Heaven and he is the descender of Khan Tengri. Mikhail Pogrebetsky is an Ukraine national.
 
 Laws_of_Motion | discoverer | Isaac_Newton
 Principia_Mathematica | author | Isaac_Newton
@@ -90,8 +90,8 @@ The_Song_of_the_Lark_(novel) | author | Willa_Cather
 Willa_Cather | nationality | United_States
 Moonstone_School | isPartOf | The_Song_of_the_Lark_(novel)
 The_Song_of_the_Lark_(novel) | genre | Bildungsroman
-The_Troll_Garden | firstBookOf | Harry_Potter_(novel_series)
-The novel The Song of the Lark, written by US national Willa Cather, is a Bildungsroman and includes the book Moonstone School as well as the first book in the Harry Potter series, The Troll Garden.
+The_Troll_Garden | firstBookOf | The_Song_of_the_Lark_(novel)
+The novel The Song of the Lark, written by US national Willa Cather, is a Bildungsroman and includes the book Moonstone School as well as the first book in The Song of the Lark series, The Troll Garden.
 
 Shopify | foundingYear | 2006
 Shopify | founder | Tobias_Lütke
@@ -286,8 +286,7 @@ The Ramanujan Machine, which was launched on January 1, 2019, is associated with
 
 Queen_Calafia | firstMention | Las_Sergas_de_Esplandián
 Las_Sergas_de_Esplandián | author | Garci_Rodríguez_de_Montalvo
-Island_of_Californias | description | "Gold-rich and wild amazons"
-The first mention of Queen Calafia is Las Sergas de Esplandián, which was written by Garci Rodrguez de Montalvo. The Island of Californias is a paradise of gold-rich and wild amazons.
+The first mention of Queen Calafia is Las Sergas de Esplandián, which was written by Garci Rodrguez de Montalvo.
 
 Mary_Anning | birthDate | 1799-05-21
 Ichthyosaurus | discoverer | Mary_Anning
